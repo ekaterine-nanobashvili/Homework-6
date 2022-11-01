@@ -1,5 +1,5 @@
-.subtitle {
-    font-family: Montserrat, sans-serif;
+.h2 {
+    font-weight: 500;
 }
 .text-cont {
     max-width: 710px;
@@ -7,9 +7,18 @@
 }
 .quote {
     font-size: 99px;
-    /* margin-top: 50px; */
 }
 .quote-text {
+    font-weight: 200;
+}
+.divider {
+    content: " ";
+    width: 50px;
+    height: 3px;
+}
+.montserrat {
     font-family: Montserrat, sans-serif;
-    font-size: 200;
+}
+.box-text {
+    font-weight: 200;
 }
