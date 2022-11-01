@@ -1,0 +1,15 @@
+.subtitle {
+    font-family: Montserrat, sans-serif;
+}
+.text-cont {
+    max-width: 710px;
+    width: 100%;
+}
+.quote {
+    font-size: 99px;
+    /* margin-top: 50px; */
+}
+.quote-text {
+    font-family: Montserrat, sans-serif;
+    font-size: 200;
+}
